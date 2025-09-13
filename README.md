@@ -1,1 +1,2 @@
-"# Day-1-4-in-Python-" 
+"# First-4-days-of-Python"
+This repository contains exercises and notes from the first four days of Python programming. The focus is on understanding Python basics and building a foundation for further learning.
